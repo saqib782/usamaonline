@@ -373,7 +373,7 @@ span{
 #teachers{
    
     position: relative;
-    top: 790px;
+    top: 840px;
     left: 0px;
     height: 30vh;
     width: 100vw;
@@ -417,6 +417,7 @@ span{
     position: relative;
     top: 18vh;
     left: 34vw;
+    color: black;
 }
 
 
