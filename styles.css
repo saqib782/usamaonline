@@ -185,6 +185,12 @@ h1{
     justify-content: center;
     display: flex;
 }
+.fm{
+    height: 90vh;
+    width: 50vw;
+    position: relative;
+    bottom: 10vh;
+}
 
 
 
@@ -198,7 +204,7 @@ h1{
     width: 70vw;
     position: relative;
     left: 15vw;
-    top: 15vh;
+    top: 22vh;
     
 }
 .ad{
@@ -238,7 +244,8 @@ p{
     height: 30vh;
     width: 100%;
     background-color: rgb(37, 36, 36);
-    
+    position: relative;
+    top: 3vh;
     
     
     color: white;
@@ -281,8 +288,11 @@ p{
 span{
     position: relative;
     top: 10vh;
-    left: 45vw;
+    left: 35vw;
     
+}
+h2{
+    text-align: center;
 }
 
 
@@ -340,7 +350,7 @@ span{
    
    position: absolute;
    left: 0px;
-   top: 380px;
+   top: 320px;
 }
 .course, .education{
     list-style: none;
@@ -356,16 +366,17 @@ span{
     width: 70vw;
     position: relative;
     left: .1vh;
+    bottom: 7vh;
     
 }
 
 
 #admission{
-    height: 60vh;
+    height: 94vh;
     width: 100vw;
     
     position: relative;
-    top: 730px;
+    top: 630px;
     left: 0px;
 
 }
@@ -373,9 +384,9 @@ span{
 #teachers{
    
     position: relative;
-    top: 840px;
+    top: 800px;
     left: 0px;
-    height: 30vh;
+    height: 50vh;
     width: 100vw;
 }
 .q{
@@ -392,10 +403,10 @@ span{
     background-color: rgb(37, 36, 36);
     
     position: relative;
-    top: 780px;
+    top: 750px;
     left: 0px;
     color: white;
-    justify-content: space-evenly;
+   
     
 }
 .contact{
@@ -404,20 +415,38 @@ span{
     top: 0vh;
 }
 address{
-    font-size: medium;
+    font-size: small;
+    position: relative;
+    bottom: 1vh;
+}
+.about{
+    position: relative;
+    right: 175px;
+    top: 60px;
 }
 
-h3{
-    font-size: larger;
+.aboutus{
+    font-size: large;
+    position: relative;
+    top: 2.7vh;
 }
+.contactus{
+    font-size: large;
+}
+.icon{
+    word-spacing: px;
+    position: relative;
+    top: 2vh;
+}
+
 h1{
     font-size: 25px;
 }
 span{
     position: relative;
-    top: 18vh;
-    left: 34vw;
-    color: black;
+   bottom: 1vh;
+   font-size: x-small;
+    left: 5vw;
 }
 
 
@@ -428,6 +457,20 @@ p{
     text-align: left;
 }
 
+.list{
+    font-size: 12px;
+    line-height: 30px;
+    text-align: left;
+    
+}
+.fm{
+    height: 60vh;
+    width: 100%;
+}
+.fa{
+    margin: 0px;
+}
+
 
 
 
@@ -437,6 +480,19 @@ p{
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
